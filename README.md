@@ -164,7 +164,8 @@ src/
   <img src="./public/screenshots/form-demo.png" width="800" alt="表单生成器"/><br/><br/>
   <strong>数据可视化</strong><br/>
   <img src="./public/screenshots/chart-demo.png" width="800" alt="数据可视化"/><br/><br/>
-  <img src="./public/screenshots/chart-demo-2.png" width="800" alt="图表联动"/>
+  <strong>图表联动</strong><br/>
+  <img src="./public/screenshots/chart.png" width="800" alt="图表联动"/>
 </p>
 
 ## 核心用法示例
